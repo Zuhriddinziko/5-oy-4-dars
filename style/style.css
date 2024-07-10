@@ -1,0 +1,210 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+
+}
+
+body {
+    font-family: 'Inter';
+    background-color:#EBEBEB;
+    
+}
+
+.continer {
+    max-width: 1171px;
+    margin: 0 auto;
+   
+
+
+}
+.header_continer{
+    margin-top: 34px;
+ display: flex;
+ align-items: center;
+ flex-direction: row;
+ justify-content: space-between;   
+}
+.olList{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+    text-decoration: none;
+    gap: 20px;
+}
+.olList a{
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    color: black;
+   
+}
+.button{
+    height: 50px;
+    width: 160px;
+    color: white;
+    background-color: #423F3E;
+    padding: 11px, 15px, 11px, 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.button:hover{
+    color: rgb(15, 248, 116);
+    background-color: #c6a397;
+}
+.fast_continer{
+    margin-top: 230px;
+    width:  960px;
+}
+.fast_continer h2{
+font-weight: 700;
+font-size: 64px;
+line-height: 76px;
+text-align: center;
+color: #2B2B2B;
+}
+.fast_continer p{
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    margin-top: 38px;
+    text-align: center;
+    color: #2B2B2B;
+    }
+
+    .nulla_continer{
+        margin-top: 330px;
+        display: flex;
+        align-items: center;
+        flex-direction: row;
+        justify-content: space-between;
+        text-decoration: none;
+        gap:68px;
+       
+        
+    }
+    .nullo1{
+        display: flex;
+        /* align-items: center; */
+        flex-direction:column;
+        justify-content: space-between;
+        width: 600px;
+    }
+    .nullo1 h3{
+        font-weight: 700;
+        font-size: 53px;
+        line-height: 63px;
+        margin-bottom: 60px;
+    }
+    .ut2{
+
+        display: flex;
+        /* align-items: center; */
+        flex-direction:row;
+        justify-content: space-between;
+    }
+    .ol p{
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 24px;
+        width: 266px;
+    }
+    .ol a{
+        text-decoration: none;
+        list-style: none;
+        display: flex;
+        flex-direction: row;
+        /* text-align: center; */
+        color: black;
+       margin-top: 20px;
+    }
+    .ol a:hover{
+        color: red;
+    }
+    .nulla2{
+        background-color: white;
+        border-radius: 12px;
+    }
+    .utea_continer{
+        margin-top: 100px;
+        display: flex;
+        align-items: center;
+        flex-direction: row;
+        justify-content: space-between;
+        text-decoration: none;
+        gap: 229px;
+    }
+    .ute{
+        width: 510px;
+    }
+    .ute h3{
+        font-weight: 700;
+font-size: 39px;
+line-height: 46px;
+/* text-align: center; */
+color: #2B2B2B;
+margin-bottom: 20px;
+    }
+    .ute p{
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 24px; 
+    }
+    .ute1{
+        display: flex;
+        align-items: center;
+        flex-direction:row;
+        justify-content: space-between;
+        width: 430px;
+    }
+    .where_continer{
+        margin-top: 150px;
+        display: flex;
+        align-items: center;
+        flex-direction:row;
+        justify-content: space-between;
+        gap:50px
+    }
+    .commodo_continer{
+        margin-top: 150px;
+        display: flex;
+        align-items: center;
+        flex-direction:column;
+        justify-content: space-between; 
+    }
+    .commodo_continer h2{
+        font-weight: 700;
+        font-size: 53px;
+        line-height: 63px;
+        margin-bottom: 60px;
+    }
+    .shodov{
+        display: flex;
+        align-items: center;
+        flex-direction:row;
+        gap: 50px;
+        justify-content: space-between; 
+        width: 960px;
+    }
+
+    .esse{
+        box-shadow: 0px,40px,0px, #3928A626;
+        width: 430px;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 24px; 
+    }
+    .esse p{
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 24px; 
+    }
+    .footer_continer{
+        margin-top: 150px;
+        display: flex;
+        align-items: center;
+        flex-direction:row;
+        justify-content: space-between; 
+    }
