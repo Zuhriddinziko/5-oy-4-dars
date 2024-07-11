@@ -16,7 +16,7 @@ buttonblac.addEventListener('click', function(event){
     event.preventDefault();
     bodi.style.backgroundColor = 'red';
     // tex.style.color = 'while';
-    bodi.style.color = 'red';
+    bodi.style.color = '#EBEBEB';
 })
 buttonwhil.addEventListener('click', function(event){
     event.preventDefault();
@@ -29,3 +29,5 @@ buttongreen.addEventListener('click', function(event){
     tex.style.color = 'while';
 })
 // console.log(buttonblac)
+
+
